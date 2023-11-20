@@ -277,7 +277,7 @@ body {
 .custom-thumb-info-style-1 .custom-thumb-info-icon {
 	display: flex;
 	justify-content: center;
-	padding: 2.5rem 0;
+	padding: 1.5rem 0;
 	background: #4d4e50;
 	transition: ease background 300ms;
 }

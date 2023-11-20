@@ -20,15 +20,15 @@ a {
 }
 
 a:hover {
-  color: #f10e08;
+  color: #ddbf8a;
 }
 
 a:focus {
-  color: #f10e08;
+  color: #ddbf8a;
 }
 
 a:active {
-  color: #bf0c06;
+  color: #ddbf8a;
 }
 
 html .text-color-primary,
@@ -923,15 +923,15 @@ html .nav-pills-primary a {
 }
 
 html .nav-pills-primary a:hover {
-  color: #f10e08;
+  color: #ddbf8a;
 }
 
 html .nav-pills-primary a:focus {
-  color: #f10e08;
+  color: #ddbf8a;
 }
 
 html .nav-pills-primary a:active {
-  color: #bf0c06;
+  color: #ddbf8a;
 }
 
 html .nav-pills-primary .nav-link.active,
@@ -1091,15 +1091,15 @@ html .nav-pills-light > li.active > a:focus {
 }
 
 .nav-link:hover {
-  color: #f10e08;
+  color: #ddbf8a;
 }
 
 .nav-link:focus {
-  color: #f10e08;
+  color: #ddbf8a;
 }
 
 .nav-link:active {
-  color: #bf0c06;
+  color: #ddbf8a;
 }
 
 .section-scroll-dots-navigation-colored > ul > li.active > a:before {
@@ -1186,11 +1186,11 @@ html .overlay-color-light:not(.no-skin):before {
 }
 
 .btn-link:hover {
-  color: #f10e08;
+  color: #ddbf8a;
 }
 
 .btn-link:active {
-  color: #bf0c06;
+  color: #ddbf8a;
 }
 
 html .btn-primary {
@@ -1307,8 +1307,8 @@ html .show > .btn-primary-scale-2.dropdown-toggle {
 html .btn-check:active + .btn-primary,
 html .btn-check:checked + .btn-primary,
 html .btn-check:focus + .btn-primary {
-  background-color: #bf0c06;
-  border-color: #ddbf8a #ddbf8a #bf0c06;
+  background-color: #ddbf8a;
+  border-color: #ddbf8a #ddbf8a #ddbf8a;
   color: #fff;
 }
 
@@ -2157,12 +2157,12 @@ html .btn-with-arrow.btn-primary.btn-outline {
 }
 
 html .btn-with-arrow.btn-primary.btn-outline:hover span {
-  background-color: #f10e08 !important;
+  background-color: #ddbf8a !important;
   box-shadow: none;
 }
 
 html .btn-with-arrow-solid.btn-primary span {
-  background-color: #bf0c06;
+  background-color: #ddbf8a;
 }
 
 html .btn-with-arrow.btn-secondary {
@@ -2736,7 +2736,7 @@ html .rating-light .filled-stars {
 
 html section.section-primary {
   background-color: #ddbf8a !important;
-  border-color: #bf0c06 !important;
+  border-color: #ddbf8a !important;
 }
 
 html section.section-primary h1,
@@ -3095,7 +3095,7 @@ section.page-header .page-header-title-border {
 }
 
 section.page-header.custom-product {
-  background-color: #bf0c06;
+  background-color: #ddbf8a;
   border-top-color: #ce0c07;
 }
 
@@ -7336,11 +7336,11 @@ html[dir="rtl"] #header .tip-light:before {
 
 html #header .header-top.header-top-primary {
   background: #ddbf8a;
-  border-top-color: #bf0c06;
+  border-top-color: #ddbf8a;
 }
 
 html #header .header-top.header-top-primary .header-nav-top ul > li.open > a {
-  background: #f10e08;
+  background: #ddbf8a;
 }
 
 html #header .header-top.header-top-primary .header-nav-top ul > li > a:hover,
@@ -7359,12 +7359,12 @@ html
   ul
   > li.open
   > a:focus {
-  background: #f10e08;
+  background: #ddbf8a;
 }
 
 html #header .header-top.header-top-primary .dropdown-menu {
-  background: #f10e08;
-  border-color: #f10e08;
+  background: #ddbf8a;
+  border-color: #ddbf8a;
 }
 
 html #header .header-top.header-top-primary .dropdown-menu a:hover,
@@ -7625,23 +7625,23 @@ html #header .header-top.header-top-light .dropdown-menu a:focus {
 }
 
 .testimonial blockquote {
-  background: #f10e08;
+  background: #ddbf8a;
 }
 
 .testimonial .testimonial-arrow-down {
-  border-top-color: #f10e08;
+  border-top-color: #ddbf8a;
 }
 
 html .testimonial-primary blockquote {
-  background: #f10e08;
+  background: #ddbf8a;
 }
 
 html .testimonial-primary .testimonial-arrow-down {
-  border-top-color: #f10e08;
+  border-top-color: #ddbf8a;
 }
 
 html .testimonial-primary.testimonial-style-7 {
-  background: #f10e08;
+  background: #ddbf8a;
 }
 
 html .testimonial-quotes-primary blockquote:before,
@@ -7766,15 +7766,15 @@ html .testimonial-quotes-light blockquote:after {
 }
 
 .form-control .testimonial-primary blockquote {
-  background: #f10e08;
+  background: #ddbf8a;
 }
 
 .form-control .testimonial-primary .testimonial-arrow-down {
-  border-top-color: #f10e08;
+  border-top-color: #ddbf8a;
 }
 
 .form-control .testimonial-primary.testimonial-style-7 {
-  background: #f10e08;
+  background: #ddbf8a;
 }
 
 .form-control .testimonial-quotes-primary blockquote:before,
@@ -8774,7 +8774,7 @@ html .featured-boxes-full-scale > .featured-box-full-primary:nth-child(1) {
 }
 
 html .featured-boxes-full-scale > .featured-box-full-primary:nth-child(2) {
-  background-color: #bf0c06;
+  background-color: #ddbf8a;
 }
 
 html .featured-boxes-full-scale > .featured-box-full-primary:nth-child(3) {
@@ -8782,7 +8782,7 @@ html .featured-boxes-full-scale > .featured-box-full-primary:nth-child(3) {
 }
 
 html .featured-boxes-full-scale > .featured-box-full-primary:nth-child(4) {
-  background-color: #f10e08;
+  background-color: #ddbf8a;
 }
 
 html .featured-boxes-full-scale > .featured-box-full-primary:nth-child(5) {
